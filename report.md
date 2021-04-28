@@ -12,12 +12,12 @@ Comment overall on the current state of your team's project. What did your team 
 
 ### Individual Contribution
 
-Describe your individual contributions so far. Which tasks did you complete? 
+Describe your individual contributions so far. Which tasks did you complete?
 Please provide reference(s) to the GitHub issue(s) assigned to you.
 
 ### Team Collaboaration
 
-What software engineering framework did your team decide to follow? Why? 
+What software engineering framework did your team decide to follow? Why?
 
 How did you do as a team? What team strategies will you continue to employ? How can you, as a team, improve over the next few days?
 
